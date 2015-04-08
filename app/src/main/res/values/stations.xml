@@ -1,0 +1,25 @@
+<resources>
+    <string-array name="stations">
+        <item>Bascarsija</item>
+        <item>Katredala</item>
+        <item>Skenderija</item>
+        <item>Marijin Dvor</item>
+        <item>Kampus</item>
+        <item>Pofalici</item>
+        <item>Socijalno</item>
+        <item>Malta</item>
+        <item>Cengic Vila</item>
+        <item>Otoka</item>
+        <item>RTV</item>
+        <item>Alipasino polje</item>
+        <item>Nedzarici</item>
+        <item>Stup</item>
+        <item>Ilidza</item>
+
+
+
+
+    </string-array>
+
+
+</resources>
