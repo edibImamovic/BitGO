@@ -20,6 +20,10 @@
             android:name=".Setting"
             android:label="@string/title_activity_setting" >
         </activity>
+        <activity
+            android:name=".Location_activity"
+            android:label="@string/title_activity_location" >
+        </activity>
     </application>
 
 </manifest>

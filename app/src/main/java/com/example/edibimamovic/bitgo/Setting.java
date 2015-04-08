@@ -1,10 +1,13 @@
 package com.example.edibimamovic.bitgo;
 
 import android.app.ListActivity;
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
@@ -19,16 +22,23 @@ public class Setting extends ActionBarActivity{
         setContentView(R.layout.activity_setting);
 
         ArrayList<String> info = new ArrayList<String>();
-        info.add("Username");
-        info.add("Location");
         info.add("City");
         info.add("Home");
         info.add("Class");
         info.add("Gym");
 
-        ArrayAdapter<String> adapterList = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_2,info);
+        ArrayAdapter<String> adapterList = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,info);
         ListView settingsList=(ListView) findViewById(R.id.settings_list);
         settingsList.setAdapter(adapterList);
+
+        settingsList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+
+                Intent i = new Intent(Setting.this, Location_activity.class);
+                startActivity(i);
+            }
+        });
 
     }
 

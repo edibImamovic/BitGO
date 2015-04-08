@@ -4,4 +4,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_setting">Setting</string>
+    <string name="location">Location: </string>
+    <string name="editLocation">Edit Location </string>
+    <string name="username">Username: </string>
+    <string name="editUsername">Edit Username </string>
+    <string name="saveDetail">Save </string>
+    <string name="titleLocation">Your Location</string>
+    <string name="title_activity_location">location</string>
 </resources>
