@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BitGO</string>
+
+    <string name="sar_tram">Tramvaj</string>
+    <string name="sar_trol">Trolejbus</string>
+    <string name="sar_bus">Autobus</string>
+    <string name="lon_tram">Tram</string>
+    <string name="lon_trol">Trolly</string>
+    <string name="lon_bus">Bus</string>
+    <string name="ber_tram">Strassebahn</string>
+    <string name="ber_trol">Obus</string>
+    <string name="ber_bus">Autobuss</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_london">LondonActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_berlin">BerlinActivity</string>
+    <string name="title_activity_transport">TransportActivity</string>
+    <string name="title_activity_lines">LinesActivity</string>
+</resources>
