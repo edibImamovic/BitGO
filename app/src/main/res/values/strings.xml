@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">BitGO</string>
 
+
     <string name="sar_tram">Tramvaj</string>
     <string name="sar_trol">Trolejbus</string>
     <string name="sar_bus">Autobus</string>
@@ -18,4 +19,8 @@
     <string name="title_activity_berlin">BerlinActivity</string>
     <string name="title_activity_transport">TransportActivity</string>
     <string name="title_activity_lines">LinesActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
 </resources>
