@@ -20,7 +20,6 @@
     <string name="title_activity_transport">TransportActivity</string>
     <string name="title_activity_lines">LinesActivity</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+
 
 </resources>

@@ -28,17 +28,17 @@ public class SarajevoActivity extends ActionBarActivity {
         final Transport tramvaj = new Transport();
         tramvaj.setId(1);
         tramvaj.setName("Tramvaj");
-        tramvaj.setLines(new String[]{"Linija1", "Linija2", "Linija3"});
+        tramvaj.setLines(new String[]{"Čengić Vila - Ilidža", "Baščaršija - Remiza", "Baščaršija - Ilidža"});
 
         final Transport trolejbus = new Transport();
         trolejbus.setId(2);
         trolejbus.setName("Trolejbus");
-        trolejbus.setLines(new String[]{"Linija1", "Linija2", "Linija3"});
+        trolejbus.setLines(new String[]{"Otoka - Jezero", "Dobrinja - Trg Austrije", "Dobrinja - Otoka"});
 
         final Transport autobus = new Transport();
         autobus.setId(3);
         autobus.setName("Autobus");
-        autobus.setLines(new String[]{"Linija1", "Linija2", "Linija3"});
+        autobus.setLines(new String[]{"Sutjeska - Vogošća", "Hadžići - Ilidža", "Vijenica - Hrasnica"});
 
         mSar_tram = (Button)  findViewById(R.id.sar_tram);
         mSar_trol = (Button) findViewById(R.id.sar_trol);
