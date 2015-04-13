@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/pre-dexed/debug/classes-b9038a0763e4d96bd5da6520206377694c3415e8.jar" />
+    </item>
+    <item
+        jar="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/pre-dexed/debug/classes-79d149212fa43d7d84883543b34786bdf3e34867.jar" />
+    </item>
+    <item
+        jar="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d2cebbb8c1413625819a0ebef290e334fe6b8a23.jar" />
+    </item>
+    <item
+        jar="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/pre-dexed/debug/classes-ce129b8dfe41c0d794c4d70a9f2861fcfa744c7f.jar" />
+    </item>
+    <item
+        jar="/Users/gordansajevic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/gordansajevic/AndroidStudioProjects/BitGO/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-d277dff9951f42119b048adfbc28d6fec6a39e96.jar" />
+    </item>
+
+</items>
